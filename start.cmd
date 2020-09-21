@@ -1,0 +1,2 @@
+node SelfStreamBot.js
+pause
